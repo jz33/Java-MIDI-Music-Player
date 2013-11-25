@@ -1,6 +1,9 @@
-MIDIMusicPlayer
-===============
+A coursework project on Java MIDI music player
 
-Java MIDI music player with multi design patterns implemented
+@author swong@rice.edu, jz33@rice.edu
+@license please contact jz33@rice.edu before reusing
 
-Details please check Readme.html
+Features:
+
+1. Available functioan please check readme.html 
+
