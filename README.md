@@ -5,5 +5,5 @@ A coursework project on Java MIDI music player
 
 Features:
 
-1. Available functioan please check readme.html 
+Functions & usage please check readme.html 
 
